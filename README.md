@@ -1,3 +1,5 @@
+✨ Welcome to my GitHub profile! ✨
+
 On this profile, you will find a selection of My projects and Personal repositories. These include some Python Projects, as well as some of my contributions to open-source projects.
 I am passionate about using technology to solve problems and am proficient in languages such as Java and Python. I am always looking to expand my skills and knowledge in the field of Computer Science, and I am open to new opportunities for learning and collaboration.
 
