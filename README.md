@@ -1,7 +1,7 @@
 ✨ Welcome to my GitHub profile! ✨
 
 On this profile, you will find a selection of My projects and Personal repositories. These include some Python Projects, as well as some of my contributions to open-source projects.
-I am passionate about using technology to solve problems and am proficient in languages such as Java and Python. I am always looking to expand my skills and knowledge in the field of Computer Science, and I am open to new opportunities for learning and collaboration.
+I am passionate about using technology to solve problems and am proficient in languages such as JavaScript and Python. I am always looking to expand my skills and knowledge in the field of Computer Science, and I am open to new opportunities for learning and collaboration.
 
 If you have an interesting project that you think I might be able to contribute to, or if you just want to Connect and chat about technology, please don't hesitate to reach out to me via GitHub.
 # 💻 Tech Stack:
