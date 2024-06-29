@@ -15,6 +15,6 @@ If you have an interesting project that you think I might be able to contribute 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seaneaston1&show_icons=true&locale=en" alt="seaneaston1" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seaneaston1&" alt="seaneaston1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhivjj&show_icons=true&locale=en" alt="abhivjj" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhivjj&" alt="abhivjj" /></p>
 <br>
